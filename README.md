@@ -14,4 +14,4 @@ Ireland, Portugal, Spain, Switzerland: Models are weak<br/>
 United Kingdom: Model Good fit and validation loss reduce considerably<br/>
 USA : Good fit of the model on training data.<br/>
 
-7/21 countries  has the good fit 
+7/23 countries  has the good fit 
